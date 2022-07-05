@@ -14,5 +14,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
+    - name: Docker Login
+ 
+      uses: docker/login-action@v2.0.0
+      with:
+        username: fizetesipont
+        password: ${{secrets.dockerpw}}
+ 
     - name: Build the Docker image
-      run: docker build ./samplewebapp --file samplewebapp/Dockerfile --tag my-image-name:$(date +%s)
+      run: 
+          docker build ./samplewebapp --file samplewebapp/Dockerfile --tag SzekelyLegio/samplewebapp:latest
+          docker push SzekelyLegio/samplewebapp:latest
