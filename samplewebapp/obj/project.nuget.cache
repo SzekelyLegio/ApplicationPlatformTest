@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2/kjyzp+7gEbk05rPaICzXdVLclBSa4ymVBqDPcmkwLp80T1gAO2PiS+MYOu1RnrfB3SR3mLSjjO8RrvqL/gXw==",
+  "dgSpecHash": "Wl1hzDmXNV49UwMtaO++3T2hzrgohIhaAYKNuim2z0Fm6EpLSIMrh1Z4DUjo8Orvg/1APJpW4Rmp8jbNsYqdmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gyuricza_adam\\Documents\\Docker projects\\platform-ds\\samplewebapp\\samplewebapp.csproj",
+  "projectFilePath": "C:\\Users\\gyuricza_adam\\Documents\\Docker projects\\platform_test_2\\ApplicationPlatformTest\\samplewebapp\\samplewebapp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
   ],
   "logs": []
 }
