@@ -21,6 +21,6 @@ jobs:
         password: ${{ secrets.dockerpw }}
  
     - name: Build the Docker image
-      run: 
+      run: |
         docker build ./samplewebapp --file samplewebapp/Dockerfile --tag suhf96/samplewebapp:latest
         docker push suhf96/samplewebapp:latest
