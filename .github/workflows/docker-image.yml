@@ -22,5 +22,5 @@ jobs:
  
     - name: Build the Docker image
       run: 
-        docker build ./samplewebapp --file samplewebapp/Dockerfile --tag SzekelyLegio/samplewebapp:latest
-        docker push SzekelyLegio/samplewebapp:latest
+        docker build ./samplewebapp --file samplewebapp/Dockerfile --tag suhf96/samplewebapp:latest
+        docker push suhf96/samplewebapp:latest
