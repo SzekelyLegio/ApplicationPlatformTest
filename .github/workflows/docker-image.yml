@@ -9,19 +9,18 @@ on:
 jobs:
 
   build:
-
+  
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
-    
     - name: Docker Login
       uses: docker/login-action@v2.0.0
       with:
         username: fizetesipont
-        password: ${{secrets.DOCKERPW}}
+        password: ${{ secrets.dockerpw }}
  
     - name: Build the Docker image
       run: 
-          docker build ./samplewebapp --file samplewebapp/Dockerfile --tag samplewebapp:latest
-          docker push samplewebapp:latest
+        docker build ./samplewebapp --file samplewebapp/Dockerfile --tag szekelylegio/samplewebapp:latest
+        docker push szekelylegio/samplewebapp:latest
