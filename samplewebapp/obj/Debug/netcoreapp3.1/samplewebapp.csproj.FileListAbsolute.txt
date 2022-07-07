@@ -70,3 +70,17 @@ C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlat
 C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\obj\Debug\netcoreapp3.1\samplewebapp.pdb
 C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\obj\Debug\netcoreapp3.1\samplewebapp.genruntimeconfig.cache
 C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\obj\Debug\netcoreapp3.1\samplewebapp.csproj.CopyComplete
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Prometheus.NetCore.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Prometheus.NetStandard.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\bin\Debug\netcoreapp3.1\Prometheus.AspNetCore.dll
+C:\Users\gyuricza_adam\Documents\Docker projects\platform_test_2\ApplicationPlatformTest\samplewebapp\obj\Debug\netcoreapp3.1\samplewebapp.MvcApplicationPartsAssemblyInfo.cs
