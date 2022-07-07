@@ -25,6 +25,7 @@ namespace samplewebapp.Controllers
 
         public IActionResult Privacy()
         {
+            Startup.ProcessedJobCount.Inc();
             return View();
         }
 
