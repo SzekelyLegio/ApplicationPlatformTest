@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Prometheus;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,8 @@ namespace samplewebapp
 {
     public class Startup
     {
+
+        public static readonly Counter ProcessedJobCount = Metrics.CreateCounter("sample_counter1", "Counter egy");
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -51,6 +54,7 @@ namespace samplewebapp
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapMetrics();
             });
         }
     }

@@ -1,10 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "Wl1hzDmXNV49UwMtaO++3T2hzrgohIhaAYKNuim2z0Fm6EpLSIMrh1Z4DUjo8Orvg/1APJpW4Rmp8jbNsYqdmg==",
+  "dgSpecHash": "KtKvu83qbpCW6zg6oQ0jpfKBx52VnK3pfPUvd4Dpn+26koTj5ssWKmzvJwPqqcRkRSU8lXs2T+r7wBmJxq3+PQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gyuricza_adam\\Documents\\Docker projects\\platform_test_2\\ApplicationPlatformTest\\samplewebapp\\samplewebapp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.http\\3.1.9\\microsoft.extensions.http.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\prometheus-net\\6.0.0\\prometheus-net.6.0.0.nupkg.sha512",
+    "C:\\Users\\gyuricza_adam\\.nuget\\packages\\prometheus-net.aspnetcore\\6.0.0\\prometheus-net.aspnetcore.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
